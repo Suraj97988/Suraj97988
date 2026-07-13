@@ -1,4 +1,4 @@
-![logo](https://github.com/Suraj97988/Suraj97988/blob/main/suraj-profile-github.png)
+![logo](https://github.com/Suraj97988/Suraj97988/blob/main/banner.png)
 
 # 💫 Hi 👋, I'm Suraj Kumar
 **A passionate Full Stack Developer from India**
