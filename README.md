@@ -9,12 +9,12 @@
 
 Email Me 👉 ✉️ **surajagarwalt@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Blogging App
-- 🌱 **I’m currently learning:** Agentic AI & Generative AI
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 🔭 **I’m currently working on:** Scalable Django Web Applications
+- 🌱 **I’m currently learning:** Agentic AI, Generative AI, Cloud Deployment (AWS)
+- 💬 **Ask me about:** Python, Django, HTML, CSS, JavaScript, Bootstrap, MySQL
 - 📫 **How to reach me:** surajagarwalt@gmail.com
-- 😄 **Pronouns:** Suraj Agarwal
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** Every project I build teaches me something new, and I enjoy sharing what I learn.
 
 <!-- Snake Game Repo View -->
 
